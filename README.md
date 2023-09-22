@@ -8,7 +8,7 @@
 
 Are you tired of juggling multiple calendars, to-do lists, and notes to keep your life on track? Look no further! Our revolutionary Bullet Journal App is here to transform your planning experience and empower you to achieve your goals with ease. Seamlessly blending creativity and functionality, our app is designed to be your digital ally, assisting you every step of the way.
 
-Section 1: Requirements
+## Section 1: Requirements
 
 Week View: Get a comprehensive overview of your entire week at a glance. Easily navigate through days, ensuring you never miss an important event or task.
 
@@ -18,13 +18,13 @@ Commitment Warnings: Our app understands the value of your time and the importan
 
 Persistence: Your data is securely stored and readily accessible across devices, so you can seamlessly transition from your smartphone to tablet or computer without missing a beat.
 
-Section 2: Headlining Features
+## Section 2: Headlining Features
 
 Task Queue: Take charge of your tasks with our intuitive Task Queue. Prioritize, rearrange, and check off completed tasks effortlessly, ensuring you never lose sight of what needs to be done.
 
 Categories: Customize your organization system with personalized categories. Categorize events, tasks, and notes for easy filtering and quick reference, allowing you to focus on what matters most.
 
-Section 3: Power Ups
+## Section 3: Power Ups
 
 Quotes and Notes: Stay inspired and motivated with our built-in Quotes and Notes feature. Capture your thoughts, jot down ideas, and store meaningful quotes to keep your creativity flowing.
 
@@ -32,13 +32,13 @@ Progress Bar: Track your progress and see how far you've come. With our Progress
 
 Weekly Overview: Gain insightful perspectives on your productivity and accomplishments with our Weekly Overview. Reflect on your past week's activities and set intentions for the week ahead.
 
-Section 4: Quality of Life
+## Section 4: Quality of Life
 
 Links: Seamlessly integrate your favorite apps and websites into your bullet journal. Save links related to your tasks and events, allowing you to access relevant resources with a single tap.
 
 Mind Changes: We understand that life is dynamic, and plans change. Easily modify and reschedule events and tasks, ensuring your bullet journal remains flexible and adaptable to your evolving needs.
 
-Section 5: Extra Credit
+## Section 5: Extra Credit
 
 Visual Flourish: Immerse yourself in a visually stunning and engaging interface. Enjoy beautiful themes, captivating animations, and elegant designs that make planning a delightful experience.
 

@@ -1,10 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/x6ckGcN8)
-# 3500 PA05 Project Repo
 
-[PA Write Up](https://markefontenot.notion.site/PA-05-8263d28a81a7473d8372c6579abd6481)
 ![Screenshot 2023-06-18 at 10.12.56 PM.png](Screenshot%202023-06-18%20at%2010.12.56%20PM.png)![Screenshot 2023-06-22 at 1.12.03 PM.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fsl%2F8jj8vhw51799n82rqqqy0yw00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_VxgfTu%2FScreenshot%202023-06-22%20at%201.12.03%20PM.png)![Screenshot 2023-06-22 at 1.12.45 PM.png](Screenshot%202023-06-22%20at%201.12.45%20PM.png)![Screenshot 2023-06-22 at 1.12.45 PM.png](Screenshot%202023-06-22%20at%201.12.45%20PM.png)
 
-Introducing the Ultimate Bullet Journal App - Your Personal Organizer and Productivity Companion!
+# Introducing the Ultimate Bullet Journal App - Your Personal Organizer and Productivity Companion!
+<img width="358" alt="Screenshot 2023-09-22 at 17 31 52" src="https://github.com/lilyshiomitsu/bullet-journal/assets/125512346/8cae009f-578d-4ee8-a2ba-6e260972226a">
+<img width="288" alt="Screenshot 2023-09-22 at 17 31 59" src="https://github.com/lilyshiomitsu/bullet-journal/assets/125512346/a40b8c5a-f50b-4c42-92bf-ae76bbe0d0da">
+<img width="1178" alt="Screenshot 2023-09-22 at 17 32 10" src="https://github.com/lilyshiomitsu/bullet-journal/assets/125512346/234e0c09-f549-4306-9991-51fa96b99edf">
+
+
 
 Are you tired of juggling multiple calendars, to-do lists, and notes to keep your life on track? Look no further! Our revolutionary Bullet Journal App is here to transform your planning experience and empower you to achieve your goals with ease. Seamlessly blending creativity and functionality, our app is designed to be your digital ally, assisting you every step of the way.
 

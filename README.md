@@ -1,6 +1,4 @@
 
-![Screenshot 2023-06-18 at 10.12.56 PM.png](Screenshot%202023-06-18%20at%2010.12.56%20PM.png)![Screenshot 2023-06-22 at 1.12.03 PM.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fsl%2F8jj8vhw51799n82rqqqy0yw00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_VxgfTu%2FScreenshot%202023-06-22%20at%201.12.03%20PM.png)![Screenshot 2023-06-22 at 1.12.45 PM.png](Screenshot%202023-06-22%20at%201.12.45%20PM.png)![Screenshot 2023-06-22 at 1.12.45 PM.png](Screenshot%202023-06-22%20at%201.12.45%20PM.png)
-
 # Introducing the Ultimate Bullet Journal App - Your Personal Organizer and Productivity Companion!
 <img width="358" alt="Screenshot 2023-09-22 at 17 31 52" src="https://github.com/lilyshiomitsu/bullet-journal/assets/125512346/8cae009f-578d-4ee8-a2ba-6e260972226a">
 <img width="288" alt="Screenshot 2023-09-22 at 17 31 59" src="https://github.com/lilyshiomitsu/bullet-journal/assets/125512346/a40b8c5a-f50b-4c42-92bf-ae76bbe0d0da">
